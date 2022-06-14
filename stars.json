@@ -1,19 +1,19 @@
 [
   {
     "full_name": "algolia/docsearch",
-    "stargazers_count": 2687,
+    "stargazers_count": 2692,
     "open_issues_count": 85,
     "forks_count": 245
   },
   {
     "full_name": "tw-in-js/twind",
-    "stargazers_count": 2226,
-    "open_issues_count": 38,
+    "stargazers_count": 2230,
+    "open_issues_count": 39,
     "forks_count": 54
   },
   {
     "full_name": "TanStack/tanstack.com",
-    "stargazers_count": 51,
+    "stargazers_count": 53,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 32057,
+    "stargazers_count": 32088,
     "open_issues_count": 288,
     "forks_count": 839
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 22451,
-    "open_issues_count": 257,
-    "forks_count": 720
+    "stargazers_count": 22488,
+    "open_issues_count": 254,
+    "forks_count": 722
   },
   {
     "full_name": "Sage/jsurl",
@@ -55,56 +55,56 @@
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 8665,
+    "stargazers_count": 8697,
     "open_issues_count": 34,
-    "forks_count": 259
+    "forks_count": 260
   },
   {
     "full_name": "ben-rogerson/twin.macro",
-    "stargazers_count": 5830,
-    "open_issues_count": 13,
+    "stargazers_count": 5848,
+    "open_issues_count": 14,
     "forks_count": 149
   },
   {
     "full_name": "SvelteStack/svelte-query",
-    "stargazers_count": 607,
+    "stargazers_count": 609,
     "open_issues_count": 27,
     "forks_count": 26
   },
   {
     "full_name": "github/fetch",
-    "stargazers_count": 25333,
+    "stargazers_count": 25338,
     "open_issues_count": 28,
     "forks_count": 3132
   },
   {
     "full_name": "bestofjs/bestofjs-webui",
-    "stargazers_count": 1925,
+    "stargazers_count": 1933,
     "open_issues_count": 11,
     "forks_count": 125
   },
   {
     "full_name": "discordjs/discord.js",
-    "stargazers_count": 19524,
-    "open_issues_count": 65,
-    "forks_count": 3422
+    "stargazers_count": 19556,
+    "open_issues_count": 69,
+    "forks_count": 3425
   },
   {
     "full_name": "TanStack/virtual",
-    "stargazers_count": 2923,
-    "open_issues_count": 2,
-    "forks_count": 146
+    "stargazers_count": 2938,
+    "open_issues_count": 4,
+    "forks_count": 148
   },
   {
     "full_name": "davidkpiano/useEffectReducer",
-    "stargazers_count": 767,
+    "stargazers_count": 768,
     "open_issues_count": 17,
     "forks_count": 21
   },
   {
     "full_name": "BrasilAPI/BrasilAPI",
-    "stargazers_count": 4680,
-    "open_issues_count": 84,
+    "stargazers_count": 4692,
+    "open_issues_count": 83,
     "forks_count": 361
   },
   {
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 17638,
+    "stargazers_count": 17673,
     "open_issues_count": 5,
-    "forks_count": 2423
+    "forks_count": 2429
   },
   {
     "full_name": "pastelsky/bundlephobia",
-    "stargazers_count": 7034,
+    "stargazers_count": 7040,
     "open_issues_count": 268,
-    "forks_count": 209
+    "forks_count": 210
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 27744,
-    "open_issues_count": 33,
-    "forks_count": 1595
+    "stargazers_count": 27798,
+    "open_issues_count": 37,
+    "forks_count": 1601
   },
   {
     "full_name": "substack/json-stable-stringify",
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "GoogleChrome/rendertron",
-    "stargazers_count": 5776,
+    "stargazers_count": 5779,
     "open_issues_count": 95,
-    "forks_count": 605
+    "forks_count": 606
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 87866,
-    "open_issues_count": 1224,
-    "forks_count": 18741
+    "stargazers_count": 88002,
+    "open_issues_count": 1211,
+    "forks_count": 18783
   },
   {
     "full_name": "cedmax/youmightnotneed",
     "stargazers_count": 127,
-    "open_issues_count": 1,
-    "forks_count": 22
+    "open_issues_count": 2,
+    "forks_count": 23
   },
   {
     "full_name": "d3/d3-scale",
