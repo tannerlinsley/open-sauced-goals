@@ -1,13 +1,13 @@
 [
   {
     "full_name": "algolia/docsearch",
-    "stargazers_count": 2743,
+    "stargazers_count": 2745,
     "open_issues_count": 81,
     "forks_count": 247
   },
   {
     "full_name": "tw-in-js/twind",
-    "stargazers_count": 2271,
+    "stargazers_count": 2280,
     "open_issues_count": 44,
     "forks_count": 57
   },
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 32230,
-    "open_issues_count": 279,
-    "forks_count": 845
+    "stargazers_count": 32243,
+    "open_issues_count": 280,
+    "forks_count": 849
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 22684,
+    "stargazers_count": 22698,
     "open_issues_count": 248,
     "forks_count": 728
   },
@@ -55,45 +55,45 @@
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 8842,
-    "open_issues_count": 41,
+    "stargazers_count": 8853,
+    "open_issues_count": 42,
     "forks_count": 266
   },
   {
     "full_name": "ben-rogerson/twin.macro",
-    "stargazers_count": 5900,
+    "stargazers_count": 5907,
     "open_issues_count": 11,
-    "forks_count": 149
+    "forks_count": 148
   },
   {
     "full_name": "SvelteStack/svelte-query",
-    "stargazers_count": 622,
+    "stargazers_count": 625,
     "open_issues_count": 29,
     "forks_count": 27
   },
   {
     "full_name": "github/fetch",
-    "stargazers_count": 25348,
-    "open_issues_count": 28,
-    "forks_count": 3140
+    "stargazers_count": 25349,
+    "open_issues_count": 29,
+    "forks_count": 3141
   },
   {
     "full_name": "bestofjs/bestofjs-webui",
-    "stargazers_count": 1939,
+    "stargazers_count": 1940,
     "open_issues_count": 11,
     "forks_count": 126
   },
   {
     "full_name": "discordjs/discord.js",
-    "stargazers_count": 19668,
-    "open_issues_count": 79,
-    "forks_count": 3433
+    "stargazers_count": 19674,
+    "open_issues_count": 87,
+    "forks_count": 3434
   },
   {
     "full_name": "TanStack/virtual",
-    "stargazers_count": 3004,
+    "stargazers_count": 3016,
     "open_issues_count": 10,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "davidkpiano/useEffectReducer",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "BrasilAPI/BrasilAPI",
-    "stargazers_count": 4722,
+    "stargazers_count": 4724,
     "open_issues_count": 82,
-    "forks_count": 363
+    "forks_count": 364
   },
   {
     "full_name": "kuldeepkeshwar/size-plugin-bot",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 17906,
-    "open_issues_count": 10,
-    "forks_count": 2452
+    "stargazers_count": 17921,
+    "open_issues_count": 14,
+    "forks_count": 2457
   },
   {
     "full_name": "pastelsky/bundlephobia",
-    "stargazers_count": 7069,
+    "stargazers_count": 7074,
     "open_issues_count": 272,
     "forks_count": 211
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 28075,
-    "open_issues_count": 43,
-    "forks_count": 1619
+    "stargazers_count": 28098,
+    "open_issues_count": 45,
+    "forks_count": 1623
   },
   {
     "full_name": "substack/json-stable-stringify",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "davidkpiano/flipping",
-    "stargazers_count": 1305,
+    "stargazers_count": 1306,
     "open_issues_count": 21,
     "forks_count": 45
   },
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "GoogleChrome/rendertron",
-    "stargazers_count": 5787,
+    "stargazers_count": 5789,
     "open_issues_count": 95,
     "forks_count": 610
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 88653,
-    "open_issues_count": 1179,
-    "forks_count": 18996
+    "stargazers_count": 88708,
+    "open_issues_count": 1194,
+    "forks_count": 19015
   },
   {
     "full_name": "cedmax/youmightnotneed",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "d3/d3-scale",
-    "stargazers_count": 1452,
+    "stargazers_count": 1453,
     "open_issues_count": 28,
-    "forks_count": 284
+    "forks_count": 285
   },
   {
     "full_name": "sghall/react-vertex",
