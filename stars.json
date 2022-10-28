@@ -1,19 +1,19 @@
 [
   {
     "full_name": "algolia/docsearch",
-    "stargazers_count": 3007,
+    "stargazers_count": 3017,
     "open_issues_count": 51,
-    "forks_count": 290
+    "forks_count": 291
   },
   {
     "full_name": "tw-in-js/twind",
-    "stargazers_count": 2927,
-    "open_issues_count": 37,
+    "stargazers_count": 2933,
+    "open_issues_count": 36,
     "forks_count": 74
   },
   {
     "full_name": "TanStack/tanstack.com",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 7,
     "forks_count": 34
   },
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 33674,
-    "open_issues_count": 327,
-    "forks_count": 917
+    "stargazers_count": 33720,
+    "open_issues_count": 332,
+    "forks_count": 919
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 24351,
-    "open_issues_count": 303,
-    "forks_count": 821
+    "stargazers_count": 24437,
+    "open_issues_count": 311,
+    "forks_count": 829
   },
   {
     "full_name": "Sage/jsurl",
-    "stargazers_count": 332,
+    "stargazers_count": 333,
     "open_issues_count": 7,
     "forks_count": 27
   },
@@ -55,43 +55,43 @@
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 10517,
-    "open_issues_count": 34,
-    "forks_count": 316
+    "stargazers_count": 10571,
+    "open_issues_count": 28,
+    "forks_count": 318
   },
   {
     "full_name": "ben-rogerson/twin.macro",
-    "stargazers_count": 6407,
+    "stargazers_count": 6418,
     "open_issues_count": 13,
     "forks_count": 156
   },
   {
     "full_name": "SvelteStack/svelte-query",
-    "stargazers_count": 703,
+    "stargazers_count": 706,
     "open_issues_count": 28,
     "forks_count": 30
   },
   {
     "full_name": "github/fetch",
-    "stargazers_count": 25499,
+    "stargazers_count": 25503,
     "open_issues_count": 39,
-    "forks_count": 3158
+    "forks_count": 3157
   },
   {
     "full_name": "bestofjs/bestofjs-webui",
-    "stargazers_count": 2012,
+    "stargazers_count": 2014,
     "open_issues_count": 12,
     "forks_count": 133
   },
   {
     "full_name": "discordjs/discord.js",
-    "stargazers_count": 21121,
-    "open_issues_count": 114,
-    "forks_count": 3615
+    "stargazers_count": 21141,
+    "open_issues_count": 113,
+    "forks_count": 3622
   },
   {
     "full_name": "TanStack/virtual",
-    "stargazers_count": 3485,
+    "stargazers_count": 3492,
     "open_issues_count": 23,
     "forks_count": 177
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "BrasilAPI/BrasilAPI",
-    "stargazers_count": 5016,
-    "open_issues_count": 79,
+    "stargazers_count": 5022,
+    "open_issues_count": 78,
     "forks_count": 389
   },
   {
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 19612,
-    "open_issues_count": 66,
-    "forks_count": 2623
+    "stargazers_count": 19631,
+    "open_issues_count": 62,
+    "forks_count": 2625
   },
   {
     "full_name": "pastelsky/bundlephobia",
-    "stargazers_count": 7451,
+    "stargazers_count": 7461,
     "open_issues_count": 288,
     "forks_count": 223
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 30583,
-    "open_issues_count": 30,
-    "forks_count": 1860
+    "stargazers_count": 30656,
+    "open_issues_count": 31,
+    "forks_count": 1867
   },
   {
     "full_name": "substack/json-stable-stringify",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "GoogleChrome/rendertron",
-    "stargazers_count": 5870,
+    "stargazers_count": 5872,
     "open_issues_count": 0,
-    "forks_count": 645
+    "forks_count": 650
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 94283,
-    "open_issues_count": 1376,
-    "forks_count": 20768
+    "stargazers_count": 94891,
+    "open_issues_count": 1435,
+    "forks_count": 20850
   },
   {
     "full_name": "cedmax/youmightnotneed",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "d3/d3-scale",
-    "stargazers_count": 1477,
+    "stargazers_count": 1479,
     "open_issues_count": 30,
     "forks_count": 287
   },
