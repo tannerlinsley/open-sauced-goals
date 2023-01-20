@@ -1,33 +1,33 @@
 [
   {
     "full_name": "iway1/react-ts-form",
-    "stargazers_count": 1544,
-    "open_issues_count": 9,
-    "forks_count": 18
+    "stargazers_count": 1605,
+    "open_issues_count": 6,
+    "forks_count": 19
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 2855,
-    "open_issues_count": 113,
-    "forks_count": 215
+    "stargazers_count": 2876,
+    "open_issues_count": 111,
+    "forks_count": 217
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 17399,
-    "open_issues_count": 187,
-    "forks_count": 1061
+    "stargazers_count": 17666,
+    "open_issues_count": 188,
+    "forks_count": 1075
   },
   {
     "full_name": "algolia/docsearch",
-    "stargazers_count": 3161,
+    "stargazers_count": 3166,
     "open_issues_count": 74,
-    "forks_count": 303
+    "forks_count": 305
   },
   {
     "full_name": "tw-in-js/twind",
-    "stargazers_count": 3098,
-    "open_issues_count": 27,
-    "forks_count": 81
+    "stargazers_count": 3108,
+    "open_issues_count": 26,
+    "forks_count": 83
   },
   {
     "full_name": "TanStack/tanstack.com",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 34337,
-    "open_issues_count": 264,
-    "forks_count": 952
+    "stargazers_count": 34367,
+    "open_issues_count": 268,
+    "forks_count": 953
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 25591,
-    "open_issues_count": 323,
+    "stargazers_count": 25630,
+    "open_issues_count": 322,
     "forks_count": 873
   },
   {
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 11699,
+    "stargazers_count": 11745,
     "open_issues_count": 12,
     "forks_count": 351
   },
   {
     "full_name": "ben-rogerson/twin.macro",
-    "stargazers_count": 6820,
-    "open_issues_count": 2,
+    "stargazers_count": 6837,
+    "open_issues_count": 1,
     "forks_count": 169
   },
   {
@@ -91,25 +91,25 @@
   },
   {
     "full_name": "github/fetch",
-    "stargazers_count": 25575,
+    "stargazers_count": 25577,
     "open_issues_count": 49,
-    "forks_count": 3174
+    "forks_count": 3175
   },
   {
     "full_name": "bestofjs/bestofjs-webui",
-    "stargazers_count": 2106,
+    "stargazers_count": 2109,
     "open_issues_count": 12,
-    "forks_count": 135
+    "forks_count": 136
   },
   {
     "full_name": "discordjs/discord.js",
-    "stargazers_count": 21635,
-    "open_issues_count": 130,
-    "forks_count": 3685
+    "stargazers_count": 21657,
+    "open_issues_count": 128,
+    "forks_count": 3691
   },
   {
     "full_name": "TanStack/virtual",
-    "stargazers_count": 3791,
+    "stargazers_count": 3796,
     "open_issues_count": 16,
     "forks_count": 192
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "BrasilAPI/BrasilAPI",
-    "stargazers_count": 5268,
-    "open_issues_count": 87,
-    "forks_count": 409
+    "stargazers_count": 5323,
+    "open_issues_count": 88,
+    "forks_count": 412
   },
   {
     "full_name": "kuldeepkeshwar/size-plugin-bot",
@@ -133,25 +133,25 @@
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 20421,
-    "open_issues_count": 62,
-    "forks_count": 2688
+    "stargazers_count": 20452,
+    "open_issues_count": 64,
+    "forks_count": 2694
   },
   {
     "full_name": "pastelsky/bundlephobia",
-    "stargazers_count": 7654,
-    "open_issues_count": 294,
+    "stargazers_count": 7662,
+    "open_issues_count": 295,
     "forks_count": 235
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 32361,
-    "open_issues_count": 52,
-    "forks_count": 2012
+    "stargazers_count": 32443,
+    "open_issues_count": 57,
+    "forks_count": 2021
   },
   {
     "full_name": "davidkpiano/flipping",
-    "stargazers_count": 1332,
+    "stargazers_count": 1333,
     "open_issues_count": 24,
     "forks_count": 48
   },
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "GoogleChrome/rendertron",
-    "stargazers_count": 5874,
+    "stargazers_count": 5873,
     "open_issues_count": 0,
-    "forks_count": 679
+    "forks_count": 680
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 99270,
-    "open_issues_count": 1470,
-    "forks_count": 21984
+    "stargazers_count": 99432,
+    "open_issues_count": 1448,
+    "forks_count": 22043
   },
   {
     "full_name": "cedmax/youmightnotneed",
