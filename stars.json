@@ -1,7 +1,7 @@
 [
   {
     "full_name": "gabrielpetersson/fast-grid",
-    "stargazers_count": 2176,
+    "stargazers_count": 2177,
     "open_issues_count": 6,
     "forks_count": 47
   },
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "TanStack/bling",
-    "stargazers_count": 1504,
+    "stargazers_count": 1505,
     "open_issues_count": 8,
     "forks_count": 34
   },
   {
     "full_name": "TanStack/time",
-    "stargazers_count": 554,
+    "stargazers_count": 553,
     "open_issues_count": 12,
     "forks_count": 3
   },
   {
     "full_name": "TanStack/react-charts",
-    "stargazers_count": 3120,
+    "stargazers_count": 3121,
     "open_issues_count": 72,
     "forks_count": 255
   },
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 11627,
-    "open_issues_count": 388,
-    "forks_count": 1255
+    "stargazers_count": 11656,
+    "open_issues_count": 403,
+    "forks_count": 1262
   },
   {
     "full_name": "TanStack/config",
     "stargazers_count": 299,
-    "open_issues_count": 9,
-    "forks_count": 33
+    "open_issues_count": 10,
+    "forks_count": 34
   },
   {
     "full_name": "mathiasbynens/jsesc",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "klis87/normy",
-    "stargazers_count": 571,
+    "stargazers_count": 573,
     "open_issues_count": 10,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "avgupta456/github-trends",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 80723,
-    "open_issues_count": 5403,
-    "forks_count": 3358
+    "stargazers_count": 80802,
+    "open_issues_count": 5365,
+    "forks_count": 3367
   },
   {
     "full_name": "meilisearch/meilisearch-js",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "nitrojs/nitro",
-    "stargazers_count": 7785,
-    "open_issues_count": 452,
-    "forks_count": 653
+    "stargazers_count": 7802,
+    "open_issues_count": 457,
+    "forks_count": 654
   },
   {
     "full_name": "benfred/venn.js",
@@ -97,14 +97,14 @@
   },
   {
     "full_name": "Kanaries/Rath",
-    "stargazers_count": 4539,
+    "stargazers_count": 4546,
     "open_issues_count": 68,
     "forks_count": 375
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 13977,
-    "open_issues_count": 29,
+    "stargazers_count": 13978,
+    "open_issues_count": 31,
     "forks_count": 96
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "lucaong/minisearch",
-    "stargazers_count": 5537,
-    "open_issues_count": 4,
-    "forks_count": 152
+    "stargazers_count": 5540,
+    "open_issues_count": 5,
+    "forks_count": 153
   },
   {
     "full_name": "iway1/react-ts-form",
@@ -127,55 +127,55 @@
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 5662,
-    "open_issues_count": 115,
-    "forks_count": 400
+    "stargazers_count": 5667,
+    "open_issues_count": 114,
+    "forks_count": 399
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 37947,
-    "open_issues_count": 154,
-    "forks_count": 4133
+    "stargazers_count": 37963,
+    "open_issues_count": 152,
+    "forks_count": 4132
   },
   {
     "full_name": "algolia/docsearch",
-    "stargazers_count": 4287,
-    "open_issues_count": 91,
+    "stargazers_count": 4289,
+    "open_issues_count": 92,
     "forks_count": 426
   },
   {
     "full_name": "tw-in-js/twind",
-    "stargazers_count": 3893,
+    "stargazers_count": 3894,
     "open_issues_count": 11,
     "forks_count": 105
   },
   {
     "full_name": "TanStack/tanstack.com",
     "stargazers_count": 737,
-    "open_issues_count": 41,
+    "open_issues_count": 42,
     "forks_count": 215
   },
   {
     "full_name": "wmertens/jsurl2",
-    "stargazers_count": 108,
+    "stargazers_count": 109,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 39344,
-    "open_issues_count": 572,
+    "stargazers_count": 39351,
+    "open_issues_count": 574,
     "forks_count": 1240
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 32778,
-    "open_issues_count": 456,
-    "forks_count": 1351
+    "stargazers_count": 32793,
+    "open_issues_count": 457,
+    "forks_count": 1353
   },
   {
     "full_name": "Sage/jsurl",
-    "stargazers_count": 394,
+    "stargazers_count": 395,
     "open_issues_count": 8,
     "forks_count": 29
   }
