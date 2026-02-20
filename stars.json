@@ -1,25 +1,25 @@
 [
   {
     "full_name": "TanStack/cli",
-    "stargazers_count": 1173,
-    "open_issues_count": 39,
-    "forks_count": 140
+    "stargazers_count": 1175,
+    "open_issues_count": 3,
+    "forks_count": 142
   },
   {
     "full_name": "durable-streams/durable-streams",
-    "stargazers_count": 1330,
-    "open_issues_count": 70,
-    "forks_count": 42
+    "stargazers_count": 1336,
+    "open_issues_count": 73,
+    "forks_count": 43
   },
   {
     "full_name": "TanStack/ai",
-    "stargazers_count": 2320,
-    "open_issues_count": 53,
-    "forks_count": 131
+    "stargazers_count": 2332,
+    "open_issues_count": 50,
+    "forks_count": 133
   },
   {
     "full_name": "gabrielpetersson/fast-grid",
-    "stargazers_count": 2209,
+    "stargazers_count": 2210,
     "open_issues_count": 6,
     "forks_count": 48
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "TanStack/ranger",
-    "stargazers_count": 824,
+    "stargazers_count": 825,
     "open_issues_count": 11,
     "forks_count": 79
   },
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 13499,
-    "open_issues_count": 521,
-    "forks_count": 1555
+    "stargazers_count": 13546,
+    "open_issues_count": 520,
+    "forks_count": 1559
   },
   {
     "full_name": "TanStack/config",
-    "stargazers_count": 356,
+    "stargazers_count": 358,
     "open_issues_count": 9,
     "forks_count": 39
   },
@@ -73,33 +73,33 @@
   },
   {
     "full_name": "klis87/normy",
-    "stargazers_count": 598,
+    "stargazers_count": 599,
     "open_issues_count": 10,
     "forks_count": 13
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 16112,
+    "stargazers_count": 16110,
     "open_issues_count": 46,
-    "forks_count": 119
+    "forks_count": 118
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 87363,
-    "open_issues_count": 6102,
-    "forks_count": 4062
+    "stargazers_count": 87491,
+    "open_issues_count": 5949,
+    "forks_count": 4071
   },
   {
     "full_name": "meilisearch/meilisearch-js",
-    "stargazers_count": 853,
-    "open_issues_count": 49,
+    "stargazers_count": 855,
+    "open_issues_count": 45,
     "forks_count": 101
   },
   {
     "full_name": "nitrojs/nitro",
-    "stargazers_count": 10363,
+    "stargazers_count": 10369,
     "open_issues_count": 533,
-    "forks_count": 780
+    "forks_count": 782
   },
   {
     "full_name": "benfred/venn.js",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "Kanaries/Rath",
-    "stargazers_count": 4604,
+    "stargazers_count": 4605,
     "open_issues_count": 67,
     "forks_count": 379
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 14053,
+    "stargazers_count": 14056,
     "open_issues_count": 31,
     "forks_count": 100
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "lucaong/minisearch",
-    "stargazers_count": 5795,
+    "stargazers_count": 5803,
     "open_issues_count": 9,
     "forks_count": 155
   },
@@ -145,33 +145,33 @@
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 5812,
+    "stargazers_count": 5811,
     "open_issues_count": 120,
-    "forks_count": 408
+    "forks_count": 407
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 38580,
-    "open_issues_count": 157,
-    "forks_count": 4216
+    "stargazers_count": 38593,
+    "open_issues_count": 160,
+    "forks_count": 4218
   },
   {
     "full_name": "algolia/docsearch",
-    "stargazers_count": 4332,
-    "open_issues_count": 98,
-    "forks_count": 436
+    "stargazers_count": 4334,
+    "open_issues_count": 97,
+    "forks_count": 437
   },
   {
     "full_name": "tw-in-js/twind",
-    "stargazers_count": 3929,
+    "stargazers_count": 3930,
     "open_issues_count": 11,
     "forks_count": 103
   },
   {
     "full_name": "TanStack/tanstack.com",
-    "stargazers_count": 899,
-    "open_issues_count": 80,
-    "forks_count": 294
+    "stargazers_count": 904,
+    "open_issues_count": 78,
+    "forks_count": 295
   },
   {
     "full_name": "wmertens/jsurl2",
