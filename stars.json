@@ -1,39 +1,39 @@
 [
   {
     "full_name": "TanStack/charts",
-    "stargazers_count": 738,
+    "stargazers_count": 744,
     "open_issues_count": 11,
     "forks_count": 45
   },
   {
     "full_name": "octanejs/octane",
-    "stargazers_count": 1389,
-    "open_issues_count": 24,
-    "forks_count": 52
+    "stargazers_count": 1412,
+    "open_issues_count": 23,
+    "forks_count": 53
   },
   {
     "full_name": "TanStack/workflow",
-    "stargazers_count": 203,
+    "stargazers_count": 208,
     "open_issues_count": 7,
     "forks_count": 6
   },
   {
     "full_name": "Gitlawb/openclaude",
-    "stargazers_count": 33274,
-    "open_issues_count": 77,
-    "forks_count": 9083
+    "stargazers_count": 33396,
+    "open_issues_count": 79,
+    "forks_count": 9090
   },
   {
     "full_name": "TanStack/intent",
     "stargazers_count": 331,
     "open_issues_count": 15,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "TanStack/cli",
     "stargazers_count": 1297,
-    "open_issues_count": 51,
-    "forks_count": 184
+    "open_issues_count": 54,
+    "forks_count": 185
   },
   {
     "full_name": "durable-streams/durable-streams",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "TanStack/ai",
-    "stargazers_count": 3108,
-    "open_issues_count": 106,
-    "forks_count": 327
+    "stargazers_count": 3121,
+    "open_issues_count": 92,
+    "forks_count": 330
   },
   {
     "full_name": "gabrielpetersson/fast-grid",
@@ -56,7 +56,7 @@
   {
     "full_name": "TanStack/select",
     "stargazers_count": 278,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 23
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "TanStack/bling",
-    "stargazers_count": 1494,
+    "stargazers_count": 1493,
     "open_issues_count": 7,
     "forks_count": 33
   },
@@ -79,20 +79,20 @@
   },
   {
     "full_name": "TanStack/react-charts",
-    "stargazers_count": 3136,
+    "stargazers_count": 3134,
     "open_issues_count": 72,
     "forks_count": 253
   },
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 15081,
-    "open_issues_count": 653,
-    "forks_count": 1856
+    "stargazers_count": 15091,
+    "open_issues_count": 654,
+    "forks_count": 1859
   },
   {
     "full_name": "TanStack/config",
     "stargazers_count": 392,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 42
   },
   {
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 15971,
+    "stargazers_count": 15969,
     "open_issues_count": 46,
     "forks_count": 117
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 95960,
-    "open_issues_count": 8644,
-    "forks_count": 5042
+    "stargazers_count": 95978,
+    "open_issues_count": 8903,
+    "forks_count": 5044
   },
   {
     "full_name": "meilisearch/meilisearch-js",
     "stargazers_count": 870,
-    "open_issues_count": 44,
+    "open_issues_count": 41,
     "forks_count": 118
   },
   {
     "full_name": "nitrojs/nitro",
-    "stargazers_count": 11214,
-    "open_issues_count": 404,
-    "forks_count": 900
+    "stargazers_count": 11220,
+    "open_issues_count": 401,
+    "forks_count": 899
   },
   {
     "full_name": "benfred/venn.js",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "Kanaries/graphic-walker",
-    "stargazers_count": 3244,
+    "stargazers_count": 3245,
     "open_issues_count": 48,
     "forks_count": 187
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 14102,
+    "stargazers_count": 14101,
     "open_issues_count": 18,
     "forks_count": 111
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "lucaong/minisearch",
-    "stargazers_count": 6136,
+    "stargazers_count": 6138,
     "open_issues_count": 12,
-    "forks_count": 173
+    "forks_count": 172
   },
   {
     "full_name": "iway1/react-ts-form",
-    "stargazers_count": 2038,
+    "stargazers_count": 2037,
     "open_issues_count": 27,
     "forks_count": 42
   },
   {
     "full_name": "solidjs/solid-start",
-    "stargazers_count": 5921,
-    "open_issues_count": 33,
-    "forks_count": 425
+    "stargazers_count": 5920,
+    "open_issues_count": 27,
+    "forks_count": 426
   }
 ]
